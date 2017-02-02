@@ -129,6 +129,23 @@ body {
     color: #ffffff;
 }
 
+
+/* Painel*/
+
+.dash-box {
+    text-align: center;
+}
+
+
+/* Footer */
+
+#footer {
+    background: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
 @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu>li>a {
         color: #ecf0f1;
