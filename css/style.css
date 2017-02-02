@@ -121,6 +121,14 @@ body {
     color: #333333;
 }
 
+
+/* Progress bars */
+
+.progress-bar {
+    background: #333333;
+    color: #ffffff;
+}
+
 @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu>li>a {
         color: #ecf0f1;
