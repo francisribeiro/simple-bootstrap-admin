@@ -156,6 +156,13 @@ html {
     height: 40px;
 }
 
+
+/* Login */
+
+#login {
+    margin-top: 50px;
+}
+
 @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu>li>a {
         color: #ecf0f1;
